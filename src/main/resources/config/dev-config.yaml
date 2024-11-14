@@ -1,0 +1,10 @@
+https:
+  host: "0.0.0.0"
+  port: "8082"
+  timeout: "30000"
+  ideal: "30000"
+
+api:
+  id: ""
+  
+ideal.timeout: "30000"
